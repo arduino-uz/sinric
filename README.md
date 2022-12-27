@@ -6,6 +6,7 @@
 - Up to 4 Relay
 - WiFi Manager
 - Integration For Google Home and SmartThings
+- Remote from Internet and tacticle button or switch
 
 
 > Open sketch, Install libraries, configure
